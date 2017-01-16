@@ -19,3 +19,12 @@ var total = document.createElement("p");
 total.innerHTML = "Your New Total is " + monthlyPayment;
 document.getElementById('singlebutton').appendChild(total);
 }
+
+/* PEER COMMENTS
+
+VS = Looks good, just start getting into the habit of writing out comments in your js and HTML 
+
+
+Giovanni Balarezo = great work dude, I would also suggest writing small comments that explain chunks of code, but good work!!!
+
+*/
